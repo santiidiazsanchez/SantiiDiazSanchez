@@ -4,7 +4,7 @@
 
 <img style="margin: 20px 0px;" src="./src/cover-of-a-full-stack-developer-modern-elegant-and-minimalist-style-283096562.png">
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<p align="center">
 <a href="https://linkedin.com/in/-santiago-d" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -18,7 +18,7 @@
 <img src=https://komarev.com/ghpvc/?username=SantiagoM55&color=1e81b0&style=for-the-badge&label=Profile+Views alt=Profile_Github style="margin-bottom: 5px;" />
 </a>
 
-</div>
+</p>
 
 ## 📖 About Me
 
@@ -72,29 +72,20 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="flex: 1; text-align: center;">
-        <a href="https://github.com/SantiagoD55" target="_blank">
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoD55&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="width: 100%;" />
-        </a>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <a href="https://github.com/SantiagoD55" target="_blank">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoD55&theme=tokyonight&theme=algolia&include_all_commits=true&count_private=true" alt="mystreak" style="width: 100%;" />
-        </a>
-    </div>
-</div>
+| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoD55&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoD55&theme=tokyonight&theme=algolia&include_all_commits=true&count_private=true) |
+| :---: | :---: |
+| [**GitHub Stats**](https://github.com/SantiagoD55) | [**GitHub Streak**](https://github.com/SantiagoD55) |
 
 ## 🤝 Support
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://ko-fi.com/santiagod55" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Kofi" />
-    </a>
-    <a href="https://patreon.com/user?u=80736594" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white" alt="Patreon" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://ko-fi.com/santiagod55" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Kofi" />
+  </a>
+  <a href="https://patreon.com/user?u=80736594" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white" alt="Patreon" />
+  </a>
+</p>
 
 
 ## 📄 Additional Information
