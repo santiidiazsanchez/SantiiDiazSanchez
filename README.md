@@ -2,7 +2,7 @@
 <h1 align="center">🧑 Hi, I'm <a href="https://www.instagram.com/cleandevcod/">Santi</a> 👋</h1>
 </div>
 
-<img style="margin: 20px 0px;" src="./src/cover-of-a-full-stack-developer-modern-elegant-and-minimalist-style-283096562.png">
+<img style="margin: 20px 0px;" src="./src/img.png">
 
 <p align="center">
 <a href="https://linkedin.com/in/-santiago-d"">
@@ -15,14 +15,14 @@
 <img src=https://img.shields.io/badge/codepen-%2300acee.svg?color=2962FF&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/SantiagoD55"">
-<img src=https://komarev.com/ghpvc/?username=SantiagoM55&color=1e81b0&style=for-the-badge&label=Profile+Views alt=Profile_Github style="margin-bottom: 5px;" />
+<img src=https://komarev.com/ghpvc/?username=SantiagoD55&color=1e81b0&style=for-the-badge&label=Profile+Views alt=Profile_Github style="margin-bottom: 5px;" />
 </a>
 
 </p>
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on [MyPortfolio](https://github.com/SantiagoM55/MyPortfolio)
+- 🔭 I’m currently working on [MyPortfolio](https://github.com/SantiagoD55/MyPortfolio)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -90,8 +90,14 @@
 
 ## 📄 Additional Information
 
+<p align="center">
 If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
+</p>
 
-- **Last edited:** September 6, 2023
+<p align="center">
+<b>Last edited:</b> September 7, 2023
+</p>
 
+<p align="center">
 © 2023 Santiago Díaz
+</p>
