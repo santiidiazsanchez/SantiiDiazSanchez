@@ -1,6 +1,4 @@
-<div align="center">
 <h1 align="center">🧑 Hi, I'm <a href="https://www.instagram.com/Santii_D_/">Santi</a> 👋</h1>
-</div>
 
 <img style="margin: 20px 0px;" src="./src/img.png">
 
@@ -95,7 +93,7 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub an
 </p>
 
 <p align="center">
-<b>Last edited:</b> September 24, 2023
+<b>Last edited:</b> September 25, 2023
 </p>
 
 <p align="center">
