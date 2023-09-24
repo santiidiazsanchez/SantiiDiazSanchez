@@ -1,8 +1,4 @@
-<div align="center">
-<h1>
-🧑 Hi, I'm <span><a href="https://www.instagram.com/Santii_D_/">Santi</a> </span>👋
-</h1>
-</div>
+<h1 align="center">🧑 Hi, I'm <a href="https://www.instagram.com/Santii_D_/">Santi</a> 👋</h1>
 
 <img style="margin: 20px 0px;" src="./src/img.png">
 
