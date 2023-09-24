@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 
-<h1 style="color: white;">🧑 Hi, I'm <a href="https://www.instagram.com/Santii_D_/">Santi</a> 👋</h1>
+<h1>🧑 Hi, I'm <a href="https://www.instagram.com/Santii_D_/">Santi</a> 👋</h1>
 
 <img style="margin: 20px 0px;" src="./src/img.png">
 
@@ -9,7 +9,7 @@
 [![CodePen](https://img.shields.io/badge/codepen-%2300acee.svg?color=2962FF&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SantiiD)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=SantiiD&color=1e81b0&style=for-the-badge&label=Profile+Views)](https://github.com/SantiiD)
 
-</center>
+</div>
 
 ## 📖 About Me
 
@@ -69,17 +69,16 @@
 
 ## 🤝 Support
 
-<center>
+<div align="center">
 
   [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiD)
   [![Patreon](https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/user?u=80736594)
 
-</center>
-
+</div>
 
 ## 📄 Additional Information
 
-<center>
+<div align="center">
 
 If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
 
@@ -87,4 +86,4 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub an
 
 © 2023 Santi Díaz
 
-</center>
+</div>
