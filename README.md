@@ -1,28 +1,28 @@
 <div align="center">
-<h1 align="center">🧑 Hi, I'm <a href="https://www.instagram.com/cleandevcod/">Santi</a> 👋</h1>
+<h1 align="center">🧑 Hi, I'm <a href="https://www.instagram.com/Santii_D_/">Santi</a> 👋</h1>
 </div>
 
 <img style="margin: 20px 0px;" src="./src/img.png">
 
 <p align="center">
-<a href="https://linkedin.com/in/-santiago-d">
+<a href="https://www.linkedin.com/in/SantiiD/">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/cleandevcod/">
+<a href="https://www.instagram.com/Santii_D_/">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.io/SantiagoD55">
+<a href="https://codepen.io/SantiiD">
 <img src=https://img.shields.io/badge/codepen-%2300acee.svg?color=2962FF&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/SantiagoD55">
-<img src=https://komarev.com/ghpvc/?username=SantiagoD55&color=1e81b0&style=for-the-badge&label=Profile+Views alt=Profile_Github style="margin-bottom: 5px;" />
+<a href="https://github.com/SantiiD">
+<img src=https://komarev.com/ghpvc/?username=SantiiD&color=1e81b0&style=for-the-badge&label=Profile+Views alt=Profile_Github style="margin-bottom: 5px;" />
 </a>
 
 </p>
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on [MyPortfolio](https://github.com/SantiagoD55/MyPortfolio)
+- 🔭 I’m currently working on [MyPortfolio](https://github.com/SantiiD/MyPortfolio)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -72,14 +72,14 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoD55&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoD55&theme=tokyonight&theme=algolia&include_all_commits=true&count_private=true) |
+| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SantiiD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiiD&theme=tokyonight&theme=algolia&include_all_commits=true&count_private=true) |
 | :---: | :---: |
-| [**GitHub Stats**](https://github.com/SantiagoD55) | [**GitHub Streak**](https://github.com/SantiagoD55) |
+| [**GitHub Stats**](https://github.com/SantiiD) | [**GitHub Streak**](https://github.com/SantiiD) |
 
 ## 🤝 Support
 
 <p align="center">
-  <a href="https://ko-fi.com/santiagod55" style="text-decoration: none;">
+  <a href="https://ko-fi.com/SantiiD" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Kofi" />
   </a>
   <a href="https://patreon.com/user?u=80736594" style="text-decoration: none;">
@@ -95,9 +95,9 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub an
 </p>
 
 <p align="center">
-<b>Last edited:</b> September 8, 2023
+<b>Last edited:</b> September 24, 2023
 </p>
 
 <p align="center">
-© 2023 Santiago Díaz
+© 2023 Santi Díaz
 </p>
