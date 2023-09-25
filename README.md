@@ -6,16 +6,16 @@
 <img src="./src/img.png">
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SantiiD/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SantiiDiazSanchez/)
 [![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SantiiDiazSanchez/)
-[![CodePen](https://img.shields.io/badge/codepen-%2300acee.svg?color=2962FF&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SantiiD)
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=SantiiD&color=1e81b0&style=for-the-badge&label=Profile+Views)](https://github.com/SantiiD)
+[![CodePen](https://img.shields.io/badge/codepen-%2300acee.svg?color=2962FF&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SantiiDiazSanchez)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=SantiiDiazSanchez&color=1e81b0&style=for-the-badge&label=Profile+Views)](https://github.com/SantiiDiazSanchez)
 
 </div>
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on [MyPortfolio](https://github.com/SantiiD/MyPortfolio)
+- 🔭 I’m currently working on [MyPortfolio](https://github.com/SantiiDiazSanchez/MyPortfolio)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -65,15 +65,15 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SantiiD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiiD&theme=tokyonight&theme=algolia&include_all_commits=true&count_private=true) |
+| ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SantiiDiazSanchez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantiiDiazSanchez&theme=tokyonight&theme=algolia&include_all_commits=true&count_private=true) |
 | :---: | :---: |
-| [**GitHub Stats**](https://github.com/SantiiD) | [**GitHub Streak**](https://github.com/SantiiD) |
+| [**GitHub Stats**](https://github.com/SantiiDiazSanchez) | [**GitHub Streak**](https://github.com/SantiiDiazSanchez) |
 
 ## 🤝 Support
 
 <div align="center">
 
-  [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiD)
+  [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiDiazSanchez)
   [![Patreon](https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/user?u=80736594)
 
 </div>
