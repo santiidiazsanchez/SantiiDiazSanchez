@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1>🧑 Hi, I'm <a href="https://www.instagram.com/Santii_D_/">Santi</a> 👋</h1>
+<h1>🧑 Hi, I'm <a href="https://www.instagram.com/SantiiDiazSanchez /">Santi</a> 👋</h1>
 
 &nbsp;
 <img src="./src/img.png">
 &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SantiiD/)
-[![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Santii_D_/)
+[![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SantiiDiazSanchez /)
 [![CodePen](https://img.shields.io/badge/codepen-%2300acee.svg?color=2962FF&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SantiiD)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=SantiiD&color=1e81b0&style=for-the-badge&label=Profile+Views)](https://github.com/SantiiD)
 
@@ -84,7 +84,7 @@
 
 If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
 
-**Last edited:** September 24, 2023
+**Last edited:** September 25, 2023
 
 © 2023 Santi Díaz
 
