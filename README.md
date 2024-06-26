@@ -73,6 +73,7 @@
 <div align="center">
 
   [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiDiazSanchez)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B500.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=white)](https://buymeacoffee.com/santidiazsanchez)
   [![Patreon](https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/user?u=80736594)
 
 </div>
