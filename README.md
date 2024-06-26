@@ -84,8 +84,8 @@
 
 If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
 
-**Last edited:** September 25, 2023
+**Last edited:** June 25, 2024
 
-© 2023 Santi Díaz
+© 2024 Santi Díaz
 
 </div>
